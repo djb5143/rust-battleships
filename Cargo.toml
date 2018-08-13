@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Dakota <djb5143@rit.edu>"]
 
 [dependencies]
+futures = "0.1"
+hyper = "0.12"
