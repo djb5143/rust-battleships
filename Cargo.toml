@@ -1,0 +1,6 @@
+[package]
+name = "rust-battleships"
+version = "0.1.0"
+authors = ["Dakota <djb5143@rit.edu>"]
+
+[dependencies]
